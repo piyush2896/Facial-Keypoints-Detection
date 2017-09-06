@@ -1,6 +1,7 @@
 # Facial Keypoints Detection
-The jupyter notebook available here, showcase my approach to tackle the kaggle problem of [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection).
-Collect dataset from [here](https://www.kaggle.com/c/facial-keypoints-detection/data)
+The jupyter notebook available here showcase my approach to tackle the kaggle problem of [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection).
+Collect dataset from [here](https://www.kaggle.com/c/facial-keypoints-detection/data).
+Trained model -> (face_model.h5)[https://github.com/piyush2896/Facial-Keypoints-Detection/blob/master/face_model.h5]
 
 
 ## Dependencies
