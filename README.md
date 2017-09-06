@@ -1,5 +1,6 @@
 # Facial Keypoints Detection
 The jupyter notebook available here, showcase my approach to tackle the kaggle problem of [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection).
+Collect dataset from [here](https://www.kaggle.com/c/facial-keypoints-detection/data)
 
 
 ## Dependencies
@@ -11,4 +12,4 @@ The jupyter notebook available here, showcase my approach to tackle the kaggle p
 
 
 ## Usage
-Run the code blocks in the notebook in the order to see the result.
+Run the code blocks in the [notebook](https://github.com/piyush2896/Facial-Keypoints-Detection/blob/master/FacialPointRecognition-Kaggle.ipynb) in the order to see the result.
